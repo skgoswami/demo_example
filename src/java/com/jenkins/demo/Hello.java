@@ -10,7 +10,7 @@ package com.jenkins.demo;
  */
 public class Hello {
     
-    public void Hello(){
+    public Hello(){
         System.out.println("Hello Shailendra");
     }
     
