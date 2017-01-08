@@ -10,8 +10,13 @@ package com.jenkins.demo;
  */
 public class Hello {
     
+<<<<<<< HEAD
     public Hello(){
         System.out.println("Hello - Simple Jenkins build example.");
+=======
+    public String getHello(){
+        return "Hello Shailendra";
+>>>>>>> origin/master
     }
     
 }

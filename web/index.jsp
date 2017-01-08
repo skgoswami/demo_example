@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1><%=new com.jenkins.demo.Hello()%></h1>
+        <h1><%=new com.jenkins.demo.Hello().getHello()%></h1>
     </body>
 </html>
