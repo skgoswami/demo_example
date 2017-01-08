@@ -10,8 +10,8 @@ package com.jenkins.demo;
  */
 public class Hello {
     
-    public void Hello(){
-        System.out.println("Hello Shailendra");
+    public Hello(){
+        System.out.println("Hello - Simple Jenkins build example.");
     }
     
 }
